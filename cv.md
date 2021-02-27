@@ -1,11 +1,12 @@
 # Ivan Baranau
 ---
 ## Contacts
-Email:			vano95by@gmail.com
-Telegram:		[@TrailblazZzer]
+* Telegram:  [@TrailblazZzer]  
+* Discord:   TrailblaZer#4196  
+* Email:    vano95by@gmail.com
 
 ## Info
-Software engineer at Defense Initiatives. Writing weird stuff in MATLAB.
+Software engineer at Defense Initiatives. Writing weird stuff in MATLAB.  
 Just willing to get into real IT.
 
 ## Skills & Tools
@@ -23,16 +24,17 @@ function min(array) {
 ```
 
 ## Experience
-| Period | Company | Position |
-| ------ | ------- | -------- |
+|          Period|                    Company|           Position|
+|---------------:|--------------------------:|------------------:|
 | 2017 - present | [Defense Initiatives][DI] | Software Engineer |
 
 ## Education
-* 2013-2017 **BSU FAMCS**
-* 2019 **Wargaming Forge Software Engineering**
+* **BSU FAMCS** 2013-2017
+* **Wargaming Forge Software Engineering** 2019 ([Project])
 
 ## English level
 **B1-B2** (estimated)
 
 [@TrailblazZzer]: <https://t.me/TrailblazZzer>
 [DI]: <https://defin.by/>
+[Project]: <https://github.com/Baranov-Ivan/Blue>
