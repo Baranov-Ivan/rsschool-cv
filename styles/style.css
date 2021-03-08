@@ -1,0 +1,226 @@
+body {
+  background-color: #ffffff;
+  font-family: "Avenir Next", sans-serif;
+  margin: 0 auto 0 auto;
+}
+
+nav {
+  background-color: #0388fc;
+}
+
+.content {
+  max-width: 1100px;
+  margin: 0 auto 0 auto;
+}
+
+#avatar {
+  float: left;
+  margin: 5em 20%;
+  box-shadow: 5px 5px 0 rgba(3, 136, 252,1);
+}
+
+#intro {
+  padding: 10em 20%;
+  text-align: center;
+}
+
+#menu ul{
+  display: flex;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  background-color: #0388fc;
+}
+#menu li{
+  flex: 1 0 auto;
+}
+
+#menu ul a {
+  display: block;
+  padding: 1em 1em;
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+}
+
+#menu li a:hover {
+  background-color: #111111;
+}
+
+hr {
+  clear: both;
+}
+
+.separator {
+  max-width: 1100px;
+  border-top: 1px solid;
+  border-color: rgba(3, 136, 252,0.5);
+}
+
+h3 {
+  color: rgba(0,0,0,0.5);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.section-header {
+  float: left;
+  width: 18em;
+  height: 10em;
+  text-align: center;
+  border-right: 1px solid;
+  border-color: rgba(3, 136, 252,0.5);
+}
+
+section {
+  height: 240px;
+}
+
+#contacts-list {
+  margin-left: 50%;
+  font-size: 24px;
+}
+
+#contacts-list ul {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 2em;
+}
+
+#telegram {
+  margin: 0;
+  padding: 15px 0 15px 40px;
+  list-style: none;
+  background-image: url(../img/telegram.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 30px;
+}
+
+#discord {
+  margin: 0;
+  padding: 15px 0 15px 40px;
+  list-style: none;
+  background-image: url(../img/discord.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 30px;
+}
+
+#email {
+  margin: 0;
+  padding: 15px 0 15px 40px;
+  list-style: none;
+  background-image: url(../img/mail.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 30px;
+}
+
+#info p, #code p{
+  font-size: 24px;
+  margin-left: 45%;
+  margin-top: 0;
+  padding-top: 1em;
+}
+
+
+#skills-list {
+  margin-left: 50%;
+  font-size: 24px;
+  padding-top: 1em;
+}
+
+#experience-content {
+  display: flex;
+  margin-left: 45%;
+  font-size: 24px;
+  padding-top: 1em;
+}
+
+#defin {
+  margin-right: 15px;
+}
+
+#job-text, #position-2  {
+  margin-top: 0;
+}
+
+#education-list {
+  margin-left: 45%;
+  font-size: 24px;
+}
+
+#education-list ul {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 2em;
+}
+
+#university {
+  margin: 0;
+  padding: 15px 0 15px 40px;
+  list-style: none;
+  background-image: url(../img/university.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 30px;
+}
+
+#wg-forge {
+  margin: 0;
+  padding: 15px 0 15px 40px;
+  list-style: none;
+  background-image: url(../img/wg.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 30px;
+}
+
+#english-list {
+  margin-left: 50%;
+  font-size: 24px;
+  padding-top: 1em;
+}
+
+footer {
+  background-color: #0388fc;
+  max-width: 1100px;
+  height: 50px;
+  margin: 45px auto 0 auto;
+}
+
+#footer-content {
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+  display: flex;
+
+  background-color: #0388fc;
+}
+
+#footer-content > * {
+  flex: 1;
+  text-align: center;
+  align-items: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#refs {
+  display: flex;
+}
+
+#refs > * {
+  flex: 1;
+  text-align: center;
+  align-items: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#year {
+  line-height: 50px;
+}
